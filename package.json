@@ -1,0 +1,16 @@
+{
+	"name": "test_srv",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"dependencies": {
+		"express": "^4.18.2",
+		"get-proxy-settings": "^0.1.13",
+		"get-ssl-certificate": "^2.3.3",
+		"hpagent": "0.1.2",
+		"https-proxy-agent": "5.0.1",
+		"node-fetch": "2",
+		"nodemon": "^3.0.1",
+		"restify": "8.6.1"
+	}
+}
